@@ -40,12 +40,14 @@ Open Source Handbook is a resource for people of **all skill and experience leve
 - **Collections by Category**
   - [Android development](https://f-droid.org/)
   - [Big data](categories/big-data.md)
+    - [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)
   - [Frameworks](https://github.com/topics/framework)
   - [Gaming](https://gist.github.com/roachhd/d579b58148d7e36a6b72)
   - [iOS development](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md#apple-watch)
     - [Objective-C apps](categories/objective-c.md)
     - [Swift apps](categories/swift.md)
   - [Machine learning](https://github.com/josephmisiti/awesome-machine-learning)
+    - [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)
   - [Security](https://github.com/topics/security)
   - Web development
     - [Front-end tools and resources](https://github.com/MilanAryal/web-development-resources)

@@ -46,6 +46,7 @@ Open Source Handbook is a resource for people of **all skill and experience leve
   - [iOS development](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md#apple-watch)
     - [Objective-C apps](categories/objective-c.md)
     - [Swift apps](categories/swift.md)
+    - [Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
   - [Machine learning](https://github.com/josephmisiti/awesome-machine-learning)
     - [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)
   - [Security](https://github.com/topics/security)
@@ -109,7 +110,7 @@ Open Source Handbook is a resource for people of **all skill and experience leve
 
 ## Want a free t-shirt?
 
-  Sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🎃 in the month of October and earn a t-shirt by making four pull requests!
+  Sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🎃 in the month of October and earn a t-shirt by making five pull requests!
 
 ## Contributing
 

@@ -107,12 +107,11 @@ Open Source Handbook is a resource for people of **all skill and experience leve
   - [Swift 📱](https://github.com/trending/swift)
   - [Unknown languages](https://github.com/trending/unknown)
 
-## Open Source Internships
+## Open Source Internships, Competitions, and Careers
 
-  - [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
-  - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
-  - [Outreachy](https://www.outreachy.org/)
-
+  - [Internships and Competitions](https://github.com/tapaswenipathak/Open-Source-Programs)
+  - [Careers](https://github.com/t9tio/open-source-jobs)
+    
 [return to top](README.md)
 
 ## Want a free t-shirt?

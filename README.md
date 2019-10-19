@@ -70,8 +70,8 @@ Open Source Handbook is a resource for people of **all skill and experience leve
   - [Front-end JavaScript frameworks](https://github.com/collections/front-end-javascript-frameworks)
   - [Game Engines](https://github.com/collections/game-engines)
   - [Getting started with machine learning](https://github.com/collections/machine-learning)
-  - [Github Browser Extensions](https://github.com/collections/github-browser-extensions)
-  - [Github Pages examples](https://github.com/collections/github-pages-examples)
+  - [GitHub Browser Extensions](https://github.com/collections/github-browser-extensions)
+  - [GitHub Pages examples](https://github.com/collections/github-pages-examples)
   - [Government apps](https://github.com/collections/government)
   - [Hacking Minecraft](https://github.com/collections/hacking-minecraft)
   - [How to choose (and contribute to) your first open source project](https://github.com/collections/choosing-projects)
@@ -101,7 +101,7 @@ Open Source Handbook is a resource for people of **all skill and experience leve
   - [C++](https://github.com/trending/c++)
   - [CSS](https://github.com/trending/css)
   - [HTML](https://github.com/trending/html)
-  - [Javascript](https://github.com/trending/javascript)
+  - [JavaScript](https://github.com/trending/javascript)
   - [Python](https://github.com/trending/python)
   - [Ruby](https://github.com/trending/ruby)
   - [Swift 📱](https://github.com/trending/swift)
@@ -116,7 +116,7 @@ Open Source Handbook is a resource for people of **all skill and experience leve
 
 ## Want a free t-shirt?
 
-  Sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🎃 in the month of October and earn a t-shirt by making five pull requests!
+  Sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🎃 in the month of October and earn a t-shirt by making four pull requests!
 
 ## Contributing
 

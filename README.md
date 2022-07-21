@@ -13,6 +13,7 @@ Open Source Handbook is a resource for people of **all skill and experience leve
 ## Intro
 
 - **Background**
+
   - [Popularity of open source](https://techcrunch.com/2017/04/07/tracking-the-explosive-growth-of-open-source-software/)
   - Why contribute to open source?
     - Contribute to projects you care about
@@ -64,6 +65,7 @@ Open Source Handbook is a resource for people of **all skill and experience leve
 [return to top](README.md)
 
 - **[GitHub-curated Collections](https://github.com/collections)**
+
   - [Clean code linters](https://github.com/collections/clean-code-linters)
   - [Design essentials](https://github.com/collections/design-essentials)
   - [DevOps tools](https://github.com/collections/devops-tools)
@@ -109,18 +111,18 @@ Open Source Handbook is a resource for people of **all skill and experience leve
 
 ## Open Source Internships, Competitions, and Careers
 
-  - [Internships and Competitions](https://github.com/tapaswenipathak/Open-Source-Programs)
-  - [Careers](https://github.com/t9tio/open-source-jobs)
-    
+- [Internships and Competitions](https://github.com/tapaswenipathak/Open-Source-Programs)
+- [Careers](https://github.com/t9tio/open-source-jobs)
+
 [return to top](README.md)
 
 ## Want a free t-shirt?
 
-  Sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🎃 in the month of October and earn a t-shirt by making four pull requests!
+Sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🎃 in the month of October and earn a t-shirt by making four pull requests!
 
-## Contributing
+## Contributing!
 
-We would love for you to contribute! Please [fork and make a pull request](https://gist.github.com/Chaser324/ce0505fbed06b947d962) to the ``source`` branch. Learn about the Markdown syntax used in the .md files from [GitHub Markdown](https://help.github.com/categories/writing-on-github/) or the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+We would love for you to contribute! Please [fork and make a pull request](https://gist.github.com/Chaser324/ce0505fbed06b947d962) to the `source` branch. Learn about the Markdown syntax used in the .md files from [GitHub Markdown](https://help.github.com/categories/writing-on-github/) or the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Maintainers
 

@@ -1,3 +1,5 @@
+“This project is tested with BrowserStack.”
+
 <h1 align="center">Open Source Handbook</h1>
 <p align="center">If you like this repo, please give it a ⭐️!</p>
 

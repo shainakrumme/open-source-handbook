@@ -20,6 +20,7 @@ Open Source Handbook is a resource for people of **all skill and experience leve
     - Make your résumé stand out
       - Show passion outside of school or work
       - Learn new skills and technologies
+      - Show that you're capable of working with code that you didn't write
     - [More reasons](https://github.com/open-source)
 
 - **Getting Started**
